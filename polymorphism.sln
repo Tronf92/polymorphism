@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polymorphism", "polymorphism\polymorphism.vcxproj", "{5AE43C32-DCFF-4B9B-8638-F5A85AE7C650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE43C32-DCFF-4B9B-8638-F5A85AE7C650}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5AE43C32-DCFF-4B9B-8638-F5A85AE7C650}.Debug|Win32.Build.0 = Debug|Win32
+		{5AE43C32-DCFF-4B9B-8638-F5A85AE7C650}.Release|Win32.ActiveCfg = Release|Win32
+		{5AE43C32-DCFF-4B9B-8638-F5A85AE7C650}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
